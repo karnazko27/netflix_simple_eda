@@ -1,4 +1,4 @@
-# netflix_simple_eda
+# Netflix Simple EDA
 
 Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
